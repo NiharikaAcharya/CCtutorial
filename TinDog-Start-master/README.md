@@ -9,6 +9,6 @@ Niharika - 4NI19CS075
 Saumya nigam - 4NI19CS100
 Vachan chandrashekar mendon - 4NI19CS117
 
-Website documentation
+WEBSITE DOCUMENTATION
 
 https://drive.google.com/file/d/10TgDHK1l1Lkq7Xh6H2jgHp1T18M4d3V0/view?usp=share_link 
